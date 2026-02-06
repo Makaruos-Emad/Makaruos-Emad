@@ -28,8 +28,27 @@
 <hr/>
 
 
-<div align="center">
-  
+<div align="left"> 
 
+**language & framework** 
+
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/dart.png" width="30" /> 
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/flutter.png" width="30" /> 
+
+**tools**
+
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/figma.png" width="30" /> 
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/vscode.png" width="30" /> 
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/supabase.webp" width="30" /> 
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/firebase.png" width="30" />
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/git.png" width="30" /> 
+<img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/github.png" width="27" /> 
+
+**Social Media**
+
+<a href="https://www.linkedin.com/in/makaruos-emad-2b375b2ba/" target="_blank">
+  <img src="https://github.com/Makaruos-Emad/Makaruos-Emad/blob/main/icons/Linkedin.svg" width="30" />
+</a>
 
 </div>
+
