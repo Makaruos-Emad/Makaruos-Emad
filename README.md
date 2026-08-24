@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    Hello, I'm makaruos emad 
+    Hello, I'm Makaruos Emad 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
   </h1>
 
